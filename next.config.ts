@@ -1,7 +1,9 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  env: {
+    API_URL: "https://690a34181a446bb9cc21c572.mockapi.io"
+  },
   reactCompiler: true,
 };
 
