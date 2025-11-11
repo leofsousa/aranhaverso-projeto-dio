@@ -3,7 +3,7 @@
 :root {
   height: 100vh;
 
-  &::before {
+  &:not(.hero-page)::before {
     content: "";
     background: $background;
     height: 100%;
