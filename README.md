@@ -34,6 +34,7 @@ Landing Page inspirada no universo do Aranhaverso, exibindo heróis e suas infor
 ```bash
 npm install
 npm run dev
+```
 
 🌐 Deploy
 
@@ -81,4 +82,3 @@ Projeto desenvolvido para fins de estudo.
 
 Leonardo Felipe
 Projeto desenvolvido como estudo e portfólio Front-End.
-```
